@@ -1,2 +1,5 @@
-# Fuelup-Fuel-Distribution-Management-System-Web-Application
- This app based on fuel distribution and this app has admin panel and user panel.
+# Fuel Distribution Management System
+This project provides a solution for Fuel Distribution problems that occurred in Sri Lanka during the time period of economic crisis.
+This project is based on HTML, CSS, Javascript and PHP.
+ 
+  
